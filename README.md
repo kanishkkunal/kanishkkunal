@@ -17,7 +17,7 @@ When I am not working, I usually like to play real-time strategy games or watch 
 
 You can also find me on [Twitter](https://twitter.com/kanishkkunal) and [LinkedIn](https://www.linkedin.com/in/kanishkkunal)
 
-I act as co-editor on✍ https://superdevresources.com and write articles on it too.
+I act as co-editor on ✍ https://superdevresources.com and write articles on it too.
 
 ## 📝 Recent Articles
 
