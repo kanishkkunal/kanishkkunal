@@ -30,4 +30,4 @@ I act as co-editor on ✍ https://superdevresources.com and write articles on it
 <!-- FEED-END -->
 
 ---
-[![Twitter Follow](https://img.shields.io/twitter/follow/kanishkkunal?label=Follow&style=social)](https://twitter.com/kanishkkunal) ![Profile Views](https://gpvc.arturio.dev/kanishkkunal)<a href="https://github.com/kanishkkunal/kanishkkunal/actions"><img src="https://github.com/kanishkkunal/kanishkkunal/workflows/Build%20README/badge.svg?branch=master" align="right" alt="Build README"></a>
+[![Twitter Follow](https://img.shields.io/twitter/follow/kanishkkunal?label=Follow&style=social)](https://twitter.com/kanishkkunal) <a href="https://github.com/kanishkkunal/kanishkkunal/actions"><img src="https://github.com/kanishkkunal/kanishkkunal/workflows/Build%20README/badge.svg?branch=master" align="right" alt="Build README"></a>
