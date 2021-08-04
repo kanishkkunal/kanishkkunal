@@ -17,9 +17,11 @@ When I am not working, I usually like to play real-time strategy games or watch 
 
 You can also find me on [Twitter](https://twitter.com/kanishkkunal) and [LinkedIn](https://www.linkedin.com/in/kanishkkunal)
 
-I act as co-editor on ✍ https://superdevresources.com and write articles on it too.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkkunal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📝 Recent Articles
+
+I act as co-editor on ✍ https://superdevresources.com and write articles on it too.
 
 <!-- FEED-START -->
 - [10 Best & Free Tailwind UI Kits and Components](https://superdevresources.com/tailwind-ui-kits/)
