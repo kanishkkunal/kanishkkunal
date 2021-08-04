@@ -21,7 +21,7 @@ You can also find me on [Twitter](https://twitter.com/kanishkkunal) and [LinkedI
 
 ## 📝 Recent Articles
 
-I act as co-editor on ✍ https://superdevresources.com and write articles on it too.
+I write articles on ✍ https://superdevresources.com and also on my personal blog.
 
 <!-- FEED-START -->
 - [10 Most Popular Static Site Generators in 2021](https://superdevresources.com/static-site-generators/)
