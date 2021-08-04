@@ -2,15 +2,15 @@
 
 Software engineer & creative professional, making apps and digital products.
 
-I am building → 
+Currently, I am building → 
 - 🌐 https://templateflip.com
 - 🛠 https://mdigi.tools
 - 📰 https://dailydevbytes.com
 
-Previously, I worked as a Software Development Engineer at Microsoft from 2007-2013 in core development team of Microsoft Office (Excel and OneNote) for Windows Phone. I left my 
+I worked as a Software Development Engineer at Microsoft from 2007-2013 in core development team of Microsoft Office (Excel and OneNote) for Windows Phone. I left my 
 full-time job as a Software Development Engineer at Microsoft in 2013, to pursue my own dreams of making and self-publishing apps & digital products.
 
-I also made mobile apps for Windows Phone (2012-2014) which saw more than 3 million downloads worldwide. [View Apps](https://kunruchcreations.com/apps/).
+I built and published mobile apps for Windows Phone and Android during 2012-2014 which saw more than 3 million downloads worldwide. [View Apps](https://kunruchcreations.com/apps/).
 
 I have a B.Tech. in Information and Communications Technology from DAIICT, Gandhinagar.
 
