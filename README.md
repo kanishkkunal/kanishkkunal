@@ -18,7 +18,17 @@ When I am not working, I usually like to play real-time strategy games or watch 
 
 You can also find me on [Twitter](https://twitter.com/kanishkkunal) and [LinkedIn](https://www.linkedin.com/in/kanishkkunal)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkkunal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+Languages, Frameworks and Tools I am currently working with:
+
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" title="JavaScript"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" title="Vue"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" title="Node.js"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" title="PHP"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" title="SQL"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" title="Bootstrap"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" title="SASS/SCSS"></code>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkkunal&layout=compact)
 
 ## 📝 Recent Articles
 
