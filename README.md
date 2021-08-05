@@ -28,7 +28,6 @@ Languages, Frameworks and Tools I am currently working with:
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" title="Bootstrap"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" title="SASS/SCSS"></code>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkkunal&layout=compact)
 
 ## 📝 Recent Articles
 
