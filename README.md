@@ -3,7 +3,7 @@
 Software Developer & Product Engineer.
 
 **2007-2013** - Worked as a Software Development Engineer at Microsoft in core development team of Microsoft Office (Excel and OneNote) for Windows Phone. I left my 
-full-time job as a Software Development Engineer at Microsoft in 2013, to pursue building my own business of self-publishing apps & digital products.
+full-time job as a Software Development Engineer at Microsoft in 2013, to pursue building my own business of making apps & digital products.
 
 **2012-2014** - Built and published mobile apps for Windows Phone and Android which saw more than 3 million downloads worldwide. [View Apps](https://kunruchcreations.com/apps/).
 
