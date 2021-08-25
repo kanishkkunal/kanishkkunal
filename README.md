@@ -47,7 +47,7 @@ Languages, Frameworks and Tools I am also experienced in:
 
 ## 📝 Recent Articles
 
-I write articles on ✍ https://superdevresources.com and also on my [personal blog](https://kanishkkunal.com/blog/).
+I write articles for ✍ https://superdevresources.com and also on my [personal blog](https://kanishkkunal.com/blog/).
 
 <!-- FEED-START -->
 - [10 Most Popular Static Site Generators in 2021](https://superdevresources.com/static-site-generators/)
