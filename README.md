@@ -2,18 +2,17 @@
 
 Software Developer & Product Engineer.
 
-Currently, I am building → 
-- 🌐 https://templateflip.com
-- 🛠 https://mdigi.tools
-- 📰 https://dailydevbytes.com
-
 **2007-2013** - Worked as a Software Development Engineer at Microsoft in core development team of Microsoft Office (Excel and OneNote) for Windows Phone. I left my 
 full-time job as a Software Development Engineer at Microsoft in 2013, to pursue building my own business of self-publishing apps & digital products.
 
 **2012-2014** - Built and published mobile apps for Windows Phone and Android which saw more than 3 million downloads worldwide. [View Apps](https://kunruchcreations.com/apps/).
 
-**2013-2021** - Built multiple end to end products, doing product development, management and planning at self-owned business.
+**2013-2021** - Built multiple end to end products, doing product development, management and planning at self-owned business. Featured products:
+- 🌐 https://templateflip.com
+- 🛠 https://mdigi.tools
+- 📰 https://dailydevbytes.com
 
+---
 I have a B.Tech. in Information and Communications Technology from DAIICT, Gandhinagar.
 
 When I am not working, I usually like to play real-time strategy games or watch documentaries on Universe, origin of life and E.T.
