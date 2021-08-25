@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Kanishk Kunal
 
-Software engineer & creative professional, making apps and digital products.
+Software Developer & Product Engineer.
 
 Currently, I am building → 
 - 🌐 https://templateflip.com
