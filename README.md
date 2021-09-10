@@ -7,7 +7,7 @@ full-time job as a Software Development Engineer at Microsoft in 2013, to pursue
 
 **2012-2014** - Built and published mobile apps for Windows Phone and Android which saw more than 3 million downloads worldwide. [View Apps](https://kunruchcreations.com/apps/).
 
-**2013-2021** - Built multiple end to end products, handling product development, management and planning at self-owned business. Featured products:
+**2014-2021** - Built multiple end to end products, handling product development, management and planning at self-owned business. Featured products:
 - 🌐 https://templateflip.com
 - 🛠 https://mdigi.tools
 - 📰 https://dailydevbytes.com
