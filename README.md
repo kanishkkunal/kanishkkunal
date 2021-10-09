@@ -5,13 +5,14 @@ Software Developer & Product Engineer.
 **2007-2013** - Worked as a Software Development Engineer at Microsoft in core development team of Microsoft Office (Excel and OneNote) for Windows Phone. I left my
 full-time job as a Software Development Engineer at Microsoft in 2013, to pursue building my own business of self-published apps & digital products.
 
-**2012-2014** - Built and published mobile apps for Windows Phone and Android which saw more than 3 million downloads worldwide. [View Apps](https://kunruchcreations.com/apps/).
+**2013-2021** - Built multiple end to end products, handling product development, management and planning at self-owned business. Featured products:
 
-**2014-2021** - Built multiple end to end products, handling product development, management and planning at self-owned business. Featured products:
-
-- 🌐 https://templateflip.com
-- 🛠 https://mdigi.tools
-- 📰 https://dailydevbytes.com
+- 🌐 https://templateflip.com/ – E-Store for Templates, Themes and Graphic Items.
+- 🛠 https://mdigi.tools/ – Web (PWA) based digital tools.
+- 📰 https://dailydevbytes.com/ – News portal for Developers and Makers.
+- 📈 TradeDroid (private) – FinTech Application (Trading Algo strategies builder, Back-testing and Live Algo Trading).
+- 📱 https://kunruchcreations.com/apps – Windows and Android apps.
+- ✏https://superdevresources.com/ – Content portal (WordPress) for Startups and Businesses.
 
 ---
 
