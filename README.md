@@ -1,9 +1,8 @@
 ## 👋 Hi, I'm Kanishk Kunal
 
-Software Developer & Product Engineer.
+I love to design, code and build things.
 
-**2007-2013** - Worked as a Software Development Engineer at Microsoft in core development team of Microsoft Office (Excel and OneNote) for Windows Phone. I left my
-full-time job as a Software Development Engineer at Microsoft in 2013, to pursue building my own business of self-published apps & digital products.
+**2021-present** - Senior Software Engineer at Microsoft
 
 **2013-2021** - Built multiple end to end products, handling product development, management and planning at self-owned business. Featured products:
 
@@ -13,6 +12,10 @@ full-time job as a Software Development Engineer at Microsoft in 2013, to pursue
 - 📈 TradeDroid (private) – FinTech Application (Trading Algo strategies builder, Back-testing and Live Algo Trading).
 - 📱 https://kunruchcreations.com/apps – Windows and Android apps.
 - ✏https://superdevresources.com/ – Content portal (WordPress) for Startups and Businesses.
+
+**2007-2013** - Worked as a Software Development Engineer at Microsoft in core development team of Microsoft Office (Excel and OneNote) for Windows Phone. I left my
+full-time job as a Software Development Engineer at Microsoft in 2013, to pursue building my own business of self-published apps & digital products.
+
 
 ---
 
