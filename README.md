@@ -2,7 +2,7 @@
 
 I love to design, code and build things.
 
-**2021-present** - Senior Software Engineer at Microsoft, India
+**2021-present** - Engineering Manager at Microsoft, India
 
 **2013-2021** - Built multiple end to end products, handling product development, management and planning at self-owned business. Featured products:
 
