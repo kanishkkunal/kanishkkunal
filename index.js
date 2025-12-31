@@ -12,10 +12,13 @@ const fetchArticles = async () => {
   const articlesJSON = parser.toJson(articlesText);
   const items = JSON.parse(articlesJSON).rss.channel.item;
   
+  // Ensure items is always an array (RSS might return single item as object)
+  const itemsArray = Array.isArray(items) ? items : [items];
+  
   // Sort by pubDate in descending order (newest first) to ensure chronological display
-  const sortedItems = items.sort((a, b) => {
-    const dateA = new Date(a.pubDate);
-    const dateB = new Date(b.pubDate);
+  const sortedItems = itemsArray.sort((a, b) => {
+    const dateA = new Date(a.pubDate || 0);
+    const dateB = new Date(b.pubDate || 0);
     return dateB - dateA;
   });
   
