@@ -1,51 +1,75 @@
-## 👋 Hi, I'm Kanishk Kunal
+# Kanishk Kunal
 
-I love to design, code and build things.
+**Engineering Manager** @ Microsoft | Builder | Technical Leader
 
-**2021-present** - Engineering Manager at Microsoft, India
-
-**2013-2021** - Built multiple end to end products, handling product development, management and planning at self-owned business. Featured products:
-
-- 🌐 https://templateflip.com/ – E-Store for Templates, Themes and Graphic Items.
-- 🛠 https://mdigi.tools/ – Web (PWA) based digital tools.
-- 📰 https://dailydevbytes.com/ – News portal for Developers and Makers.
-- 📈 TradeDroid (private) – FinTech Application (Trading Algo strategies builder, Back-testing and Live Algo Trading).
-- 📱 https://kunruchcreations.com/apps – Windows and Android apps.
-- ✏https://superdevresources.com/ – Content portal (WordPress) for Startups and Businesses.
-
-**2007-2013** - Worked as a Software Development Engineer at Microsoft in core development team of Microsoft Office (Excel and OneNote) for Windows Phone. I left my
-full-time job as a Software Development Engineer at Microsoft in 2013, to pursue building my own business of self-published apps & digital products.
-
+[![LinkedIn](https://img.shields.io/badge/-kanishkkunal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kanishkkunal/)](https://www.linkedin.com/in/kanishkkunal/)
+[![Twitter](https://img.shields.io/badge/-@kanishkkunal-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/kanishkkunal)](https://twitter.com/kanishkkunal)
+[![Website](https://img.shields.io/badge/-kanishkkunal.com-000000?style=flat-square&logo=About.me&logoColor=white&link=https://kanishkkunal.com/)](https://kanishkkunal.com/)
 
 ---
 
-I have a B.Tech. in Information and Communications Technology from DAIICT, Gandhinagar.
+## About
 
-When I am not working, I usually like to play real-time strategy games or watch documentaries on Universe, origin of life and E.T.
+Engineering leader with 15+ years of experience spanning product development, engineering management, and entrepreneurship. Currently leading engineering teams at Microsoft, with a track record of building successful products from concept to scale.
 
-You can also find me on [Twitter](https://twitter.com/kanishkkunal) and [LinkedIn](https://www.linkedin.com/in/kanishkkunal)
+**Background:** B.Tech in Information and Communications Technology, DAIICT Gandhinagar
 
-Languages, Frameworks and Tools, I am currently working with:
+## Professional Journey
 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" title="JavaScript"></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" title="TypeScript"></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" title="Node.js"></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" title="Android"></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png" title="iOS"></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/eaef8552d8b082ffafe2bfc8a5023d47da904aac/topics/azure/azure.png" title="Azure"></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" title="React Native"></code>
+### Microsoft | Engineering Manager
+**2021 - Present** | India
 
-Languages, Frameworks and Tools, I am also experienced in:
+Leading engineering teams delivering cloud-scale solutions.
 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" title="C++"></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" title="C#"></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" title="Java"></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" title="Vue"></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" title="PHP"></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" title="PostgreSQL"></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" title="Windows"></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" title="Linux"></code>
+### Entrepreneur & Product Leader
+**2013 - 2021**
+
+Built and scaled multiple profitable digital products and platforms from the ground up:
+
+- **[TemplateFlip](https://templateflip.com/)** - E-commerce platform for templates and themes
+- **[mDigi Tools](https://mdigi.tools/)** - Suite of web-based productivity tools
+- **[DailyDevBytes](https://dailydevbytes.com/)** - Developer-focused news platform
+- **TradeDroid** - FinTech application for algorithmic trading
+- **[KunRuch Creations](https://kunruchcreations.com/apps)** - Windows and Android applications
+- **[SuperDevResources](https://superdevresources.com/)** - Resource platform for developers
+
+### Microsoft | Software Development Engineer
+**2007 - 2013** | Microsoft Office Team
+
+Core development team member for Microsoft Office (Excel and OneNote) on Windows Phone platform.
+
+## Technical Expertise
+
+**Current Stack:**
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=ios&logoColor=white)
+
+**Additional Experience:**
+
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 ---
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/kanishkkunal?label=Follow&style=social)](https://twitter.com/kanishkkunal)
+## Recent Writing
+
+<!-- This section is automatically updated daily with recent blog posts from kanishkkunal.com -->
+<!-- FEED-START -->
+<!-- FEED-END -->
+
+---
+
+<p align="center">
+  <i>Open to connecting with fellow builders and technology leaders</i><br/>
+  <a href="https://kanishkkunal.com/contact/">Reach out and say hi! 👋</a>
+</p>
