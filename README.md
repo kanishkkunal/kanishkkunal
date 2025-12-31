@@ -63,6 +63,7 @@ Core development team member for Microsoft Office (Excel and OneNote) on Windows
 
 ## Recent Writing
 
+<!-- This section is automatically updated with recent blog posts from SuperDevResources -->
 <!-- FEED-START -->
 <!-- FEED-END -->
 
