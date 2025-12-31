@@ -65,11 +65,6 @@ Core development team member for Microsoft Office (Excel and OneNote) on Windows
 
 <!-- This section is automatically updated daily with recent blog posts from kanishkkunal.com -->
 <!-- FEED-START -->
-- [Building Scalable Systems with Microservices](https://kanishkkunal.com/blog/building-scalable-systems)
-- [Leadership in Engineering Teams](https://kanishkkunal.com/blog/leadership-engineering-teams)
-- [Modern JavaScript Patterns](https://kanishkkunal.com/blog/modern-javascript-patterns)
-- [Cloud Architecture Best Practices](https://kanishkkunal.com/blog/cloud-architecture-best-practices)
-- [TypeScript Tips for Large Codebases](https://kanishkkunal.com/blog/typescript-tips-large-codebases)
 <!-- FEED-END -->
 
 ---
