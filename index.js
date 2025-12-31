@@ -10,7 +10,16 @@ const fetchArticles = async () => {
   const articles = await fetch(FEED_URL);
   const articlesText = await articles.text();
   const articlesJSON = parser.toJson(articlesText);
-  const newC = JSON.parse(articlesJSON).rss.channel.item.slice(0, 5);
+  const items = JSON.parse(articlesJSON).rss.channel.item;
+  
+  // Sort by pubDate in descending order (newest first) to ensure chronological display
+  const sortedItems = items.sort((a, b) => {
+    const dateA = new Date(a.pubDate);
+    const dateB = new Date(b.pubDate);
+    return dateB - dateA;
+  });
+  
+  const newC = sortedItems.slice(0, 5);
 
   return newC.map(({ title, link }) => `- [${title}](${link})`).join("\n");
 };
