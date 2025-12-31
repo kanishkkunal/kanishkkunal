@@ -65,6 +65,11 @@ Core development team member for Microsoft Office (Excel and OneNote) on Windows
 
 <!-- This section is automatically updated daily with recent blog posts from kanishkkunal.com -->
 <!-- FEED-START -->
+- [Starting my Second Innings at Microsoft](https://kanishkkunal.com/starting-my-second-innings-at-microsoft/)
+- [Launching MDiGi.tools and DailyDevBytes](https://kanishkkunal.com/launching-mdigi-tools-and-dailydevbytes/)
+- [List of Plugins Installed on My WordPress Sites](https://kanishkkunal.com/plugins-wordpress-sites/)
+- [Cost of Running My WordPress Websites](https://kanishkkunal.com/cost-wordpress-websites/)
+- [My New Projects - SDR Tools and SDR News](https://kanishkkunal.com/open-source-projects-sdr-tools-news/)
 <!-- FEED-END -->
 
 ---
