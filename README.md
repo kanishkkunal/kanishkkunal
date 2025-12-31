@@ -63,12 +63,13 @@ Core development team member for Microsoft Office (Excel and OneNote) on Windows
 
 ## Recent Writing
 
-<!-- This section is automatically updated with recent blog posts from SuperDevResources -->
+<!-- This section is automatically updated daily with recent blog posts from kanishkkunal.com -->
 <!-- FEED-START -->
 <!-- FEED-END -->
 
 ---
 
 <p align="center">
-  <i>Open to connecting with fellow builders and technology leaders</i>
+  <i>Open to connecting with fellow builders and technology leaders</i><br/>
+  <a href="https://kanishkkunal.com/contact/">Reach out and say hi! 👋</a>
 </p>
