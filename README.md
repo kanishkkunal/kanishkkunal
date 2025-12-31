@@ -10,16 +10,16 @@
 
 ## About
 
-Engineering leader with 15+ years of experience spanning product development, engineering management, and entrepreneurship. Currently leading engineering teams at Microsoft, with a track record of building successful products from concept to scale.
+Engineering leader with 18+ years of experience spanning product development, engineering management, and entrepreneurship. Currently leading engineering teams at Microsoft, with a track record of building successful products from concept to scale.
 
 **Background:** B.Tech in Information and Communications Technology, DAIICT Gandhinagar
 
-## Professional Journey
+## Work Experience
 
 ### Microsoft | Engineering Manager
 **2021 - Present** | India
 
-Leading engineering teams delivering cloud-scale solutions.
+Leading engineering team delivering M365 Copilot for mobile devices.
 
 ### Entrepreneur & Product Leader
 **2013 - 2021**
