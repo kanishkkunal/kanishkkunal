@@ -18,16 +18,17 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v4
 
+      - name: Install pnpm
+        uses: pnpm/action-setup@v2
+        with:
+          version: 8
+          run_install: false
+
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: "20"
           cache: "pnpm"
-
-      - name: Install pnpm
-        uses: pnpm/action-setup@v2
-        with:
-          version: 8
 
       - name: Install dependencies
         run: pnpm install --frozen-lockfile
@@ -37,8 +38,8 @@ jobs:
 
       - name: Configure Git
         run: |
-          git config user.email "readme-bot@example.com"
-          git config user.name "readme-bot"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
       - name: Commit and push if README changed
         run: |
