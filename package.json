@@ -1,16 +1,14 @@
 {
   "name": "kanishkkunal",
   "version": "1.0.0",
-  "main": "index.js",
-  "repository": "git@github.com:kanishkkunal/kanishkkunal.git",
-  "author": "Kanishk Kunal <kanishkkunal@users.noreply.github.com>",
   "license": "MIT",
   "type": "module",
+  "author": "Kanishk Kunal <kanishkkunal@users.noreply.github.com>",
+  "repository": "https://github.com/kanishkkunal/kanishkkunal.git",
   "scripts": {
-    "build": "node --experimental-modules index.js"
+    "build": "node index.js"
   },
   "dependencies": {
-    "node-fetch": "^2.6.0",
     "xml2json": "^0.12.0"
   }
 }

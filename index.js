@@ -1,52 +1,59 @@
 import fs from "fs";
-import fetch from "node-fetch";
 import parser from "xml2json";
 
 const FEED_URL = "https://kanishkkunal.com/rss.xml";
-const TAG_OPEN = `<!-- FEED-START -->`;
-const TAG_CLOSE = `<!-- FEED-END -->`;
+const TAG_OPEN = "<!-- FEED-START -->";
+const TAG_CLOSE = "<!-- FEED-END -->";
 
-const fetchArticles = async () => {
-  const articles = await fetch(FEED_URL);
-  const articlesText = await articles.text();
-  const articlesJSON = parser.toJson(articlesText);
-  const items = JSON.parse(articlesJSON).rss.channel.item;
-  
-  // Ensure items is always an array (RSS might return single item as object)
+async function fetchArticles() {
+  const response = await fetch(FEED_URL);
+
+  if (!response.ok) {
+    throw new Error(`Failed to fetch RSS feed: ${response.status}`);
+  }
+
+  const xmlText = await response.text();
+  const jsonText = parser.toJson(xmlText);
+  const parsed = JSON.parse(jsonText);
+
+  const items = parsed?.rss?.channel?.item;
+  if (!items) return "";
+
   const itemsArray = Array.isArray(items) ? items : [items];
-  
-  // Sort by pubDate in descending order (newest first) to ensure chronological display
+
   const sortedItems = itemsArray.sort((a, b) => {
     const dateA = new Date(a.pubDate || 0);
     const dateB = new Date(b.pubDate || 0);
     return dateB - dateA;
   });
-  
-  const newC = sortedItems.slice(0, 5);
 
-  return newC.map(({ title, link }) => `- [${title}](${link})`).join("\n");
-};
+  return sortedItems
+    .slice(0, 5)
+    .map(({ title, link }) => `- [${title}](${link})`)
+    .join("\n");
+}
 
 async function main() {
   const readme = fs.readFileSync("./README.md", "utf8");
-  const indexBefore = readme.indexOf(TAG_OPEN) + TAG_OPEN.length;
-  const indexAfter = readme.indexOf(TAG_CLOSE);
-  const readmeContentChunkBreakBefore = readme.substring(0, indexBefore);
-  const readmeContentChunkBreakAfter = readme.substring(indexAfter);
+
+  const start = readme.indexOf(TAG_OPEN);
+  const end = readme.indexOf(TAG_CLOSE);
+
+  if (start === -1 || end === -1 || end <= start) {
+    throw new Error("README feed markers not found or malformed");
+  }
+
+  const before = readme.slice(0, start + TAG_OPEN.length);
+  const after = readme.slice(end);
 
   const posts = await fetchArticles();
 
-  const readmeNew = `
-${readmeContentChunkBreakBefore}
-${posts}
-${readmeContentChunkBreakAfter}
-`;
+  const updated = `${before}\n${posts}\n${after}`;
 
-  fs.writeFileSync("./README.md", readmeNew.trim());
+  fs.writeFileSync("./README.md", updated.trim() + "\n");
 }
 
-try {
-  main();
-} catch (error) {
-  console.error(error);
-}
+main().catch((err) => {
+  console.error(err);
+  process.exit(1);
+});
