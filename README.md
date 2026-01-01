@@ -1,10 +1,10 @@
 # Kanishk Kunal
 
-**Engineering Manager** @ Microsoft | Builder | Technical Leader
+**Engineering Manager** @ Microsoft | Product Engineer | Web • Mobile • Platforms
 
-[![LinkedIn](https://img.shields.io/badge/-kanishkkunal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kanishkkunal/)](https://www.linkedin.com/in/kanishkkunal/)
-[![Twitter](https://img.shields.io/badge/-@kanishkkunal-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/kanishkkunal)](https://twitter.com/kanishkkunal)
-[![Website](https://img.shields.io/badge/-kanishkkunal.com-000000?style=flat-square&logo=About.me&logoColor=white&link=https://kanishkkunal.com/)](https://kanishkkunal.com/)
+[![LinkedIn](https://img.shields.io/badge/in-kanishkkunal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kanishkkunal/)](https://www.linkedin.com/in/kanishkkunal/)
+[![Twitter](https://img.shields.io/badge/X-@kanishkkunal-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/kanishkkunal)](https://twitter.com/kanishkkunal)
+[![Website](https://img.shields.io/badge/https-kanishkkunal.com-000000?style=flat-square&logoColor=white&link=https://kanishkkunal.com/)](https://kanishkkunal.com/)
 
 ---
 
@@ -38,26 +38,28 @@ Built and scaled multiple profitable digital products and platforms from the gro
 
 Core development team member for Microsoft Office (Excel and OneNote) on Windows Phone platform.
 
-## Technical Expertise
+## Technical Stack
 
-**Current Stack:**
+**Primary:**
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=ios&logoColor=white)
 
-**Additional Experience:**
+**Additional:**
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
 
 ---
 
