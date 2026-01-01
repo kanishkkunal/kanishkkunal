@@ -1,9 +1,14 @@
 import fs from "fs";
-import parser from "xml2json";
+import { XMLParser } from "fast-xml-parser";
 
 const FEED_URL = "https://kanishkkunal.com/rss.xml";
 const TAG_OPEN = "<!-- FEED-START -->";
 const TAG_CLOSE = "<!-- FEED-END -->";
+
+const xmlParser = new XMLParser({
+  ignoreAttributes: true,
+  trimValues: true,
+});
 
 async function fetchArticles() {
   const response = await fetch(FEED_URL);
@@ -13,8 +18,7 @@ async function fetchArticles() {
   }
 
   const xmlText = await response.text();
-  const jsonText = parser.toJson(xmlText);
-  const parsed = JSON.parse(jsonText);
+  const parsed = xmlParser.parse(xmlText);
 
   const items = parsed?.rss?.channel?.item;
   if (!items) return "";
